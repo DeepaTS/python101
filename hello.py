@@ -83,3 +83,6 @@ print(f"Customer Name: {customerName}")
 print(f"Item Price: ${itemPrice}")
 print(f"Quantity: {quantity}")
 print(f"Total Cost: {roundedCost}")
+
+#additional code
+print(f"Tax Amount: ${roundedCost * 0.08}")
